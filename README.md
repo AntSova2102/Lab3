@@ -1,2 +1,1 @@
-      Lab3
-I2C and Arduino
+Lab3 I2C and Arduino
